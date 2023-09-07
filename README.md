@@ -1,6 +1,6 @@
 # Injetor de DLL em Processos
 
-Este é um exemplo de código em C++ que demonstra como injetar uma DLL em um processo Windows. Este código permite a injeção segura de uma DLL em um processo alvo usando funções da API do Windows.
+Este é um exemplo de código em C que demonstra como injetar uma DLL em um processo Windows. Este código permite a injeção segura de uma DLL em um processo alvo usando funções da API do Windows.
 
 ## Uso
 
