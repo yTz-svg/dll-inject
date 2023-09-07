@@ -4,7 +4,7 @@ Este é um exemplo de código em C que demonstra como injetar uma DLL em um proc
 
 ## Uso
 
-1. Compile o código-fonte fornecido usando um compilador C++ compatível com o Windows.
+1. Compile o código-fonte fornecido usando um compilador C compatível com o Windows.
 
 2. Substitua as seguintes variáveis no código pelo seu valor apropriado:
    - `dwProcessId`: O ID do processo alvo no qual você deseja injetar a DLL.
@@ -16,7 +16,7 @@ Este é um exemplo de código em C que demonstra como injetar uma DLL em um proc
 
 ## Requisitos
 
-- Um ambiente de desenvolvimento C++ compatível com o Windows.
+- Um ambiente de desenvolvimento C compatível com o Windows.
 - Um processo alvo para a injeção da DLL.
 
 ## Atenção
